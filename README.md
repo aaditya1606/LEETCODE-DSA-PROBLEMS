@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0326-power-of-three) |
+| [3895-count-digit-appearances](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [3895-count-digit-appearances](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
