@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0326-power-of-three) |
 | [3895-count-digit-appearances](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/3895-count-digit-appearances) |
 ## Recursion
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3895-count-digit-appearances](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/3895-count-digit-appearances) |
 ## String
@@ -23,4 +25,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
