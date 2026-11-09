@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0326-power-of-three) |
 | [3895-count-digit-appearances](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/3895-count-digit-appearances) |
 ## Recursion
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3895-count-digit-appearances](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/3895-count-digit-appearances) |
@@ -50,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
