@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3895-count-digit-appearances](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/3895-count-digit-appearances) |
 ## String
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
