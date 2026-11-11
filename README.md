@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
