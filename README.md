@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0171-excel-sheet-column-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0171-excel-sheet-column-number) |
 | [0709-to-lower-case](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0709-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1732-find-the-highest-altitude) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
