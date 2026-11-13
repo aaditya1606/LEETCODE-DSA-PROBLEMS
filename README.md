@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1732-find-the-highest-altitude](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2032-two-out-of-three) |
@@ -64,16 +65,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2032-two-out-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2032-two-out-of-three) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
