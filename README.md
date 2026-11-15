@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0326-power-of-three) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2032-two-out-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2032-two-out-of-three) |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
