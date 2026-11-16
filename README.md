@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0171-excel-sheet-column-number) |
+| [0389-find-the-difference](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0709-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2032-two-out-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2032-two-out-of-three) |
 ## Binary Search
@@ -89,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2032-two-out-of-three) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
