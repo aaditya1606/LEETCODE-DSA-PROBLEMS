@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1480-running-sum-of-1d-array](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 ## Trie
 |  |
