@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
+| [1200-minimum-absolute-difference](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0389-find-the-difference) |
+| [1200-minimum-absolute-difference](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Prefix Sum
