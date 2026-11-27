@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2235-add-two-integers) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
