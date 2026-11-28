@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/aaditya1606/LEETCODE-DSA-PROBLEMS/tree/master/2485-find-the-pivot-integer) |
